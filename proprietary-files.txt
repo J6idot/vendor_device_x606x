@@ -481,14 +481,6 @@ lib64/vndk-29/android.hardware.neuralnetworks@1.0.so
 lib64/vndk-29/android.hardware.neuralnetworks@1.1.so
 lib64/vndk-29/android.hardware.neuralnetworks@1.2.so
 
-# NFC
-lib/vndk-29/android.hardware.nfc@1.0.so
-lib/vndk-29/android.hardware.nfc@1.1.so
-lib/vndk-29/android.hardware.nfc@1.2.so
-lib64/vndk-29/android.hardware.nfc@1.0.so
-lib64/vndk-29/android.hardware.nfc@1.1.so
-lib64/vndk-29/android.hardware.nfc@1.2.so
-
 # OEM lock
 lib/vndk-29/android.hardware.oemlock@1.0.so
 lib64/vndk-29/android.hardware.oemlock@1.0.so
