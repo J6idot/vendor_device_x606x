@@ -1813,11 +1813,6 @@ vendor/odm/etc/vintf/manifest_ss.xml
 vendor/odm/etc/vintf/manifest_ss_se.xml
 vendor/odm/etc/vintf/manifest_ss_se_ese.xml
 vendor/odm/etc/vintf/manifest_tsts.xml
-vendor/res/images/lcd_test_00.png
-vendor/res/images/lcd_test_01.png
-vendor/res/images/lcd_test_02.png
-vendor/res/sound/ringtone.wav
-vendor/res/sound/testpattern1.wav
 vendor/thh/ta/020b0000000000000000000000000000.ta
 vendor/thh/ta/020f0000000000000000000000000000.ta
 vendor/thh/ta/05110000000000000000000000000000.ta
