@@ -666,11 +666,6 @@ odm/etc/vintf/manifest_ss.xml
 odm/etc/vintf/manifest_ss_se.xml
 odm/etc/vintf/manifest_ss_se_ese.xml
 odm/etc/vintf/manifest_tsts.xml
-vendor/app/EmCamera/lib/arm64/libem_camera_jni.so
-vendor/app/EmCamera/EmCamera.apk
-vendor/app/SensorHub/lib/arm64/libem_sensor_jni.so
-vendor/app/SensorHub/SensorHub.apk
-vendor/app_backup/LenovoSoundRecorder/LenovoSoundRecorder.apk
 vendor/bin/hw/camerahalserver
 vendor/bin/hw/power_legacy_test_v_1_0
 vendor/bin/hw/power_native_test_v_1_0
