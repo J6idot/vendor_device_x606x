@@ -658,14 +658,6 @@ vendor/etc/wifi/wpa_supplicant.conf
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 
 # Miscellaneous
-odm/etc/vintf/manifest_dsds.xml
-odm/etc/vintf/manifest_dsds_se.xml
-odm/etc/vintf/manifest_dsds_se_ese.xml
-odm/etc/vintf/manifest_qsqs.xml
-odm/etc/vintf/manifest_ss.xml
-odm/etc/vintf/manifest_ss_se.xml
-odm/etc/vintf/manifest_ss_se_ese.xml
-odm/etc/vintf/manifest_tsts.xml
 vendor/bin/hw/camerahalserver
 vendor/bin/hw/power_legacy_test_v_1_0
 vendor/bin/hw/power_native_test_v_1_0
