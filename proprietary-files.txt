@@ -746,7 +746,6 @@ vendor/bin/watch
 vendor/bin/wlan_assistant
 vendor/bin/wmt_launcher
 vendor/bin/wmt_loader
-vendor/data/misc/ProjectConfig.mk
 vendor/etc/.tp/.ht120.mtc
 vendor/etc/.tp/.thermal_policy_00
 vendor/etc/.tp/.thermal_policy_03
