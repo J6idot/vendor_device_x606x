@@ -64,4 +64,7 @@ setup_vendor "${DEVICE}" "${VENDOR}" "${LINEAGE_ROOT}" false "${CLEAN_VENDOR}"
 
 extract "${MY_DIR}/proprietary-files.txt" "${SRC}" ${KANG} --section "${SECTION}"
 
+patchelf --replace-needed libwifi-hal.so libwifi-hal-mtk.so ${LINEAGE_ROOT}/vendor/lenovo/X606X/proprietary/vendor/bin/hw/android.hardware.wifi@1.0-service-lazy-mediatek
+patchelf --set-soname libwifi-hal-mtk.so ${LINEAGE_ROOT}/vendor/lenovo/X606X/proprietary/vendor/lib64/libwifi-hal-mtk.so
+
 "${MY_DIR}/setup-makefiles.sh"

@@ -39,6 +39,9 @@ fi
 # Initialize the helper
 setup_vendor "$DEVICE" "$VENDOR" "$LINEAGE_ROOT"
 
+# fix blobs
+patchelf --set-soname libwifi-hal-mtk.so proprietary/vendor/lib64/libwifi-hal-mtk.so
+
 # Copyright headers and guards
 write_headers
 
